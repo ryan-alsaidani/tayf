@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tayf_brown">#FF1E140D</color>
+    <color name="tayf_brown_light">#FF2B1D13</color>
+    <color name="tayf_surface">#FF34251A</color>
+    <color name="tayf_gold">#FFC9A24B</color>
+    <color name="tayf_gold_light">#FFE6C77A</color>
+    <color name="tayf_text">#FFF3E9D8</color>
+</resources>
